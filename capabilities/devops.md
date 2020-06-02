@@ -2,7 +2,7 @@
 
 [&olt; back](../README.md)
 
-Design <progress value="0.05"></progress> Dev
+`Design |-------------------⚪| Dev`
 
 End-to-end automation and feedback - Builds, tests, releases, instrumentation, monitoring.
 

@@ -2,7 +2,7 @@
 
 [&olt; back](../README.md)
 
-Design <progress value="0.95"></progress> Dev
+`Design |⚪-----------------| Dev`
 
 Sketches / wireframes / story boards / body storming / etc. to guide a delivery and experience
 

@@ -2,7 +2,7 @@
 
 [&olt; back](../README.md)
 
-Design <progress value="0.7"></progress> Dev
+`Design |----⚪---------------| Dev`
 
 Implementation of playable prototypes and UX / UI / designs. Tuning for aesthetics and feel.
 

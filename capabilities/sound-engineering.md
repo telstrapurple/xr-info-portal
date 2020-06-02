@@ -2,7 +2,7 @@
 
 [&olt; back](../README.md)
 
-Design <progress value="0.9"></progress> Dev
+`Design |--⚪-----------------| Dev`
 
 Producing pleasing audio experiences, music and SFX.
 

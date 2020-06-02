@@ -1,8 +1,0 @@
-progress::-webkit-progress-bar {
-    background-color: pink;
-    color: red;
-}
-progress::-webkit-progress-value {
-    background-color: blue;
-    color: navy;
-}

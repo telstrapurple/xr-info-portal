@@ -2,7 +2,7 @@
 
 [&olt; back](../README.md)
 
-Design <progress value="0.8"></progress> Dev
+`Design |----⚪---------------| Dev`
 
 Producing aesthetic and performant 2D and 3D assets (e.g. using Blender, Max, Photoshop etc.)
 
