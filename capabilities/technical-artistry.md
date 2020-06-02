@@ -6,8 +6,23 @@ Design <progress value="0.5"></progress> Dev
 
 Take an artistic vision and assets, and make it come to life through custom shaders, VFX, user interaction, and animations.
 
+## Topics
+
+* Shader programming
+* Particles
+* Animations
+* Inverse Kinematics
+* State machines
+* Timelines / cutscenes
+* Render pipeline
+* Optimization
+* Coordinate systems
+
+## Tools
+
+* Game Engine
+* Shaders (HLSL / Cg / ShaderLab)
+
 ## Quick Links
 
-* Foo
-* Bar
-* Baz
+* TBD

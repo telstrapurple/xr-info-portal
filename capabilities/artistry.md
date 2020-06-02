@@ -6,7 +6,27 @@ Design <progress value="0.8"></progress> Dev
 
 Producing aesthetic and performant 2D and 3D assets (e.g. using Blender, Max, Photoshop etc.)
 
-## Quick Links
+## Topics
+
+* 3D Modeling
+* Sculpting
+* Texturing
+* Lighting
+* Keyframe animation
+* Blend shapes
+* UV mapping
+* Remeshing
+
+## Tools
+
+* Max
+* Maya
+* Blender
+* ZBrush
+* Photoshop
+* GIMP
+
+## Learning Resources
 
 ### Blender Guru's tutorials
 
