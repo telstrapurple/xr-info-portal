@@ -1,8 +1,8 @@
-# XR Capability Portal
+# XR Information Portal
 
 _by [Telstra Purple](https://purple.telstra.com)_
 
-A central place for XR Capability information / learning resources / demonstrations of Cross Reality engagements.
+A central place for XR Information - capabilities / learning resources / demonstrations / verticals / use cases of Cross Reality.
 
 ## Capabilties
 

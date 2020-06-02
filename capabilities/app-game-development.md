@@ -17,6 +17,9 @@ Programming and wiring up application/game logic, including external data integr
 * Coordinate systems
 * Native platforms (iOS, Android, UWP)
 * WebGL / WebXR etc.
+* Asset pipeline
+* Unit Testing
+* 3D Math
 
 ## Tools
 
@@ -28,6 +31,22 @@ Programming and wiring up application/game logic, including external data integr
 * Azure DevOps
 * GitHub
 * Git
+
+## Self-Assessment
+
+- [x] I am proficient with my IDE of choice
+- [x] I can quickly research unfamiliar problems and solve them with minimal
+- [x] My project is well-structured, componentised, clean and maintainable
+- [x] I can write meaningful unit tests
+- [x] I am proficient in 3D maths concepts
+
+## Role overlaps
+
+This role overlaps heavily with
+
+* [Technical Artist](technical-artistry.md)
+* [Security](security.md)
+* [DevOps](devops.md)
 
 ## Quick Links
 

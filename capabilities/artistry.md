@@ -16,6 +16,7 @@ Producing aesthetic and performant 2D and 3D assets (e.g. using Blender, Max, Ph
 * Blend shapes
 * UV mapping
 * Remeshing
+* Asset pipeline
 
 ## Tools
 
@@ -25,6 +26,10 @@ Producing aesthetic and performant 2D and 3D assets (e.g. using Blender, Max, Ph
 * ZBrush
 * Photoshop
 * GIMP
+
+## Self assessment
+
+
 
 ## Learning Resources
 

@@ -17,6 +17,7 @@ Take an artistic vision and assets, and make it come to life through custom shad
 * Render pipeline
 * Optimization
 * Coordinate systems
+* Asset pipeline
 
 ## Tools
 
