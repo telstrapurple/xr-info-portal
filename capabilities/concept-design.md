@@ -1,8 +1,8 @@
 # Concept Design
 
-[&olt; back](../README.md)
+[&olt; back](./README.md)
 
-`Design |⚪-----------------| Dev`
+`Design |⚪-------------------| Dev`
 
 Sketches / wireframes / story boards / body storming / etc. to guide a delivery and experience
 

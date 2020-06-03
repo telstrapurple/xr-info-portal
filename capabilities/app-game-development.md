@@ -1,6 +1,6 @@
 # App / Game Development
 
-[&olt; back](../README.md)
+[&olt; back](./README.md)
 
 `Design |-----------------⚪--| Dev`
 
