@@ -252,9 +252,13 @@ All platforms
 -   It's in a usable state for PoCs right now (Dec 2019), but not for production
 -   Specifically, the signaling server uses node-dss, which is very 1-to-1, so you can't have a team. Just a pair.
 
-### Photon Audio
+### Photon Voice
 
-Yes, Photon does audio as well
+All platforms
+
+<https://doc.photonengine.com/en-us/voice/v2/getting-started/voice-intro>
+
+A great choice, especially if you already use Photon for multiplayer
 
 ## CI / CD
 
