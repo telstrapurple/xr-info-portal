@@ -84,7 +84,7 @@ https://learn.unity.com/course/unity-s-game-prototyping-series
 
 Welcome to Unity's Prototype series! This series, created by the Unity Evangelism team, will showcase the creation of playable prototypes, showing how multiple features of Unity can be used to achieve game mechanics that can be used in real-world scenarios. Each month a new episode of the series will be released. Each episode includes a video explaining how the mechanics were created, the project assets, as well as supporting tutorials to learn more about the features used in each prototyping series.  
 
-### Buried Memories: High Fidelity Game Visuals
+### Buried Memories: High Fidelity Game Visuals - 9h
 ⭐⭐⭐ - It's tangentially related, but the techniques picked up here are immensely valuable for our work. Get that foundation up.
 
 https://learn.unity.com/course/buried-memories-high-fidelity-game-visuals
@@ -94,7 +94,7 @@ https://learn.unity.com/course/buried-memories-high-fidelity-game-visuals
 * Understand the approach taken by each artist to deliver high fidelity game visuals for the Buried Memories: Serekh Asset Pack demo
 * Apply your learning through creative challenges in a streamlined Unity Project
 
-### VR Beginner: The Escape Room
+### VR Beginner: The Escape Room - 3h
 ⭐⭐⭐⭐ Apply all that knowledge to make a VR game
 
 https://learn.unity.com/project/vr-beginner-the-escape-room
@@ -107,7 +107,7 @@ In this project, you will:
 * Explore and evaluate the Escape Room, a fully realised VR experience
 
 
-### Introduction to XR: VR, AR, and MR Foundations
+### Introduction to XR: VR, AR, and MR Foundations - 11h
 ⭐⭐ Looks primitive, but has some use around designing / assessing AR apps in there
 
 https://learn.unity.com/course/introduction-to-xr-vr-ar-and-mr-foundations
