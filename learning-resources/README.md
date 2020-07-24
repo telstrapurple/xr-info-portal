@@ -17,6 +17,7 @@
 * [Microsoft Apps (Guides / Remote Assist)](topics/microsoft-apps.md)
 * [Shaders / VFX](topics/shaders-vfx.md)
 * [3D Modelling](topics/3d-modelling.md)
+* [Designer to Unity Transition](topics/designer-to-unity-transition.md)
  
 ## Telstra Purple content
 

@@ -34,7 +34,7 @@ https://learn.unity.com/course/advanced-design-unity-game-development-course
 
 These advanced courses will teach you more about cinematic design and post-processing and polish. 
 
-### Design, Develop, and Deploy for V
+### Design, Develop, and Deploy for VR
 ⭐⭐⭐⭐⭐ Top notch, very comprehensive
 
 https://learn.unity.com/course/oculus-vr/?tab=overview
